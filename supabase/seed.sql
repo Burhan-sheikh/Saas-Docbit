@@ -1,0 +1,3 @@
+-- Optional local dev seed. Safe to run after migrations on a fresh local Supabase instance.
+-- Plans are already inserted by migration 0002. This file is intentionally minimal;
+-- create real data through the app UI (sign up, then create a workspace/project).

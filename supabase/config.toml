@@ -1,0 +1,10 @@
+project_id = "saas-platform"
+
+[db]
+port = 54322
+
+[api]
+port = 54321
+
+[studio]
+port = 54323
